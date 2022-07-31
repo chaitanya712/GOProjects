@@ -1,4 +1,4 @@
-module github.com/Product-api/working
+module github.com/Product-api
 
 go 1.18
 
